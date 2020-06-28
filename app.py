@@ -14,7 +14,6 @@ try:
 
     filtered = data[filter]
     titles = list(filtered['title'])
-
     #print(filtered.shape)
     print(random.sample(titles,3))
 except ValueError:
