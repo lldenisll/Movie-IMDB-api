@@ -5,6 +5,8 @@
 ## Mainly features
 - IMDb movie rating via IMDb API
 -- User input the name of the movie and get the `return [rating,year,genre,runtime]`
+<img src="./eg3.png" width = "75%">
+
 
 - The user chooses a set of parameteres for one movie
 -- And gets three option to watch based on the parameters. 
