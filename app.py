@@ -1,6 +1,8 @@
 import pandas as pd
 import random
 
+
+
 data = pd.read_csv("IMDb-movies.csv")
 
 genre = input("Type the gender that you like to watch: ")
