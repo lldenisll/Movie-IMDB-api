@@ -17,3 +17,12 @@
 
 ## Web APP
 - Currently testing CherryPy
+- First Version bellow
+<img src="./eg4.png" width = "50%">
+<img src="./eg5.png" width = "50%">
+
+## Web APP next steps..
+- On the input => Year range (eg. movies from 1960 - 1980)
+- Maybe a country filter as well, yet to decide 
+- Include CSS style, background etc, and maybe some JS to better present the results
+- Decide where to deploy, maybe pythonanywhere
